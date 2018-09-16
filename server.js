@@ -1,4 +1,4 @@
-// Babel ES6/JSX Compiler
+// Babel ES6/JSX Compiler 1
 require('babel-register');
 
 var path = require('path');
